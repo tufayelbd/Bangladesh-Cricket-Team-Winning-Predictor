@@ -1,0 +1,3 @@
+
+By following the https://stats.espncricinfo.com/ci/engine/records/index.html website I collected Bangladesh cricket team's all records in the CSV file and then I applied the machine learning algorithm where I used K-nearest neighbor machine learning algorithms. 
+This application shows the prediction in the middle of the match as it depends on some constrains that the user needs to give input such as home or away conditions, and opponent as well as some key players’ performance. Then, these algorithms analyze user input data with actual data based on some constraints and will give a predicted result of whether the Bangladesh cricket team will win or lose the game. This project gives around 97.5% accuracy.
